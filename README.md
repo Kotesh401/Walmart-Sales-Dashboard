@@ -1,4 +1,4 @@
-# # Walmart-Sales-Dashboard
+ # Walmart-Sales-Dashboard
 Project Summary: Walmart Sales Analysis Dashboard
 Project Title: Walmart Sales Trend and Performance Analysis Using Power BI
 
