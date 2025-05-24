@@ -42,7 +42,6 @@ Holiday vs Non-Holiday Comparison
 
 Business Use Case:
 This dashboard helps Walmart decision-makers:
-
 Forecast high-revenue periods
 Adjust stock and staffing based on seasonal trends
 Optimize promotions around economic conditions
